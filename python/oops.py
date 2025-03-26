@@ -166,5 +166,5 @@ class Pizza(Cirle):
 
 shapes = [Cirle(4),Square(5),Triangle(7,8),Pizza("Peporanni",9.5)]
 
-for shape in shapes:
-    print(shape.area())
+
+
